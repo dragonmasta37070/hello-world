@@ -1,0 +1,23 @@
+Allgemein:
+
+Bei den Elementen sollen wie auf der website die Möglichkeigten vorhanden sein, dass man sie abhacken kann und die Deteils
+der Reservierungen einsehen kann.
+
+Seitenmenüpunkte:
+    - Neue
+    - Alle
+    - Heute
+    - Hinzufügen
+
+Neue:
+
+Es sollen alle Reservierungen angezeigt werden welche nicht abgehackt sind.
+
+Alle:
+
+Es sollen ale Reservierungen angezeigt werden.
+
+Heute:
+
+Es sollen nur die Reservierungen angezeigt werden, welche aufs heutige Datum Datiert worden sind.
+Am unteren Bildschirmrand soll die insegsamte anzahl des aktuellen Tages an Reservierungen sowie Leuten angezeigt werden.
