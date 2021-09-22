@@ -1,7 +1,14 @@
 Allgemein:
 
-Bei den Elementen sollen wie auf der website die Möglichkeigten vorhanden sein, dass man sie abhacken kann und die Deteils
-der Reservierungen einsehen kann.
+    Bei den Elementen sollen wie auf der website die Möglichkeigten vorhanden sein, dass man sie abhacken kann und die Deteils
+    der Reservierungen einsehen kann.
+
+    Jede neue Reservierung soll zudem als Benachrichtugung am Handy angezeigt werden.
+    In der Benachrichtigung sollen folgende Informationen stehen:
+        - Datum 
+        - Uhrzeit
+        - Personenanzahl
+        - Name
 
 Seitenmenüpunkte:
     - Neue
@@ -11,13 +18,18 @@ Seitenmenüpunkte:
 
 Neue:
 
-Es sollen alle Reservierungen angezeigt werden welche nicht abgehackt sind.
+    Es sollen alle Reservierungen angezeigt werden welche nicht abgehackt sind.
 
 Alle:
 
-Es sollen ale Reservierungen angezeigt werden.
+    Es sollen ale Reservierungen angezeigt werden.
 
 Heute:
 
-Es sollen nur die Reservierungen angezeigt werden, welche aufs heutige Datum Datiert worden sind.
-Am unteren Bildschirmrand soll die insegsamte anzahl des aktuellen Tages an Reservierungen sowie Leuten angezeigt werden.
+    Es sollen nur die Reservierungen angezeigt werden, welche aufs heutige Datum Datiert worden sind.
+    Am unteren Bildschirmrand soll die insegsamte anzahl des aktuellen Tages an Reservierungen sowie Leuten angezeigt werden.
+
+Hinzufügen:
+
+    Dieses Feld kann auch zu den optionspunkten oben rechts hinzugefügt werden.
+    Durch diese Funktion soll man selbst eine Reservierung hinzufügen bei der die Meisten einträge fehlen dürfen.
